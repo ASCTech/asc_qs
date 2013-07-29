@@ -684,6 +684,10 @@ body.page-institutes #leftcontent .view-content .item-list .views-field-title {
 	width: 86px;
 }
 
+#headerbar {
+	background: #333;
+}
+
 #headerbar-menu {
 	color: #fff;
 	padding-top: 10px;
