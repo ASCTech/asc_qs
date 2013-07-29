@@ -26,7 +26,7 @@ if(!($front_image || $front_text || $front_links)){
 </head>
 <body class="<?php print $body_classes; ?>">
 
-	<?php require_once("navbar/osu-navbar-b-custom.php"); ?>
+	<?php require_once("navbar/osu-navbar.php"); ?>
 
 	<div id="header">
 		<div class="container">
@@ -34,22 +34,21 @@ if(!($front_image || $front_text || $front_links)){
 				<?php if(false && !$is_front){ ?>
 					<a href="http://artsandsciences.osu.edu/" id="small-banner-1" title="Arts and Sciences homepage">&nbsp;</a>
 				<? } ?>
-				<div id="logo">
+				<a href="/"id="logo"></a>
 					<?php if($logo){ ?>
 						<?php if(!$is_front){ ?>
-						<a href="<?php global $base_url; print $base_url; ?>" title="Back to <?php print $site_name; ?> home"><img alt="<?php print $site_name; ?>" src="<?php print $logo ?>"/></a>
+						<!-- <a href="<?php global $base_url; print $base_url; ?>" title="Back to <?php print $site_name; ?> home"><img alt="<?php print $site_name; ?>" src="<?php print $logo ?>"/></a> -->
 						<?php }else{ ?>
-						<img alt="<?php print $site_name; ?>" src="<?php print $logo ?>"/>
+						<!-- <img alt="<?php print $site_name; ?>" src="<?php print $logo ?>"/> -->
 						<?php } ?>
 					<?php } ?>
-				</div><!-- .logo -->
-				<a href="http://www.osu.edu/" id="osulogo" title="Ohio State University homepage">&nbsp;</a>
+				
+				<a href="http://www.osu.edu/" id="osulogo" title="Ohio State University homepage" >&nbsp;</a>
 
 				<div id="navigation">
 				</div><!-- #navigation -->
 			</div>
 		</div> <!-- .container -->
-		<div id="header-tile">&nbsp;</div>
 	</div> <!-- #header -->
 	<div id="headerbar">
 		<div class="container">

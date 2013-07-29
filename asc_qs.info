@@ -4,6 +4,7 @@ core = 6.x
 engine = phptemplate
 base theme = quickSites_custom
 
+stylesheets[all][] = styles/osu_navbar-resp-white.css
 stylesheets[screen][] = styles/override.css
 
 regions[headerbar_menu] = Headerbar menu
@@ -14,6 +15,7 @@ regions[front_right] = Front page right of feature.
 regions[front_block1] =  Front Page - Large Block
 regions[front_block2] =  Front Page - Small Block - Left
 regions[front_block3] =  Front Page - Small Block - Right
+regions[front_content] = Front Page content area
 
 regions[left] = Left Sidebar
 regions[right] = Right Sidebar

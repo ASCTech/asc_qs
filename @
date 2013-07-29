@@ -1,8 +1,3 @@
-/* Header Overrides */
-#title {margin-top: 1.3em; margin-bottom: .75em;}
-#main-content h2 {font-size: 20px; margin-bottom: 0;}
-#main-content h3 {font-size: 16px; margin-bottom: .25em;}
-
 /* HTML Elements */
 
 .node-type-news .taxonomy {
@@ -14,25 +9,13 @@
 }
 
 a#logo {
-	height: 164px;
-	width: 948px;
-	background: url("/sites/transitionsite.asc.ohio-state.edu/files/asc_qs_logo.png") no-repeat scroll 0px 0px transparent;
-	position: static;
+	bottom: 0px;
+	position: absolute;
+	margin-left: -100px;
 }
 
-#osulogo {
-	background: url("../images/osulogo.png") no-repeat 0 0 transparent;
-	height: 164px;
-	width: 175px;
-	right: 0;
-	bottom: 0;
-}
-
-#header-container{
-	background: transparent;
-}
 div#header {
-	background-color: #fff;
+	background-color: #DEDEDE;
 }
 
 div#header-tile {
@@ -286,7 +269,7 @@ body.page-inthenews .view-inthenews table.views-view-grid tr td.col-1 {
 	padding-left: 15px;
 }
 #sidebar-right .view-inthenews .item-list ul.views-summary li a.active {
-	background-color: #E4CDAD;
+    background-color: #E4CDAD;
 }
 
 
@@ -755,7 +738,9 @@ div#block-views-events-block_1.block.block-views {
 }
 
 div#footer {
-	background: #373535;
+	background-color: #221D13;
+	background-image: -webkit-gradient(radial,50% center,0,center center,750,from(#56492F),to(#221D13));
+	background-image: -moz-radial-gradient(50% center, circle farthest-corner,#56492F,#221D13);
 }
 
 div#footer_copyright {
