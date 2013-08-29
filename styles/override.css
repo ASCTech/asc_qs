@@ -1,3 +1,10 @@
+/* Generic Typography */
+p {font-family: "Proxima Nova Light", Arial, sans-serif; font-size: 15px;}
+h1, h2, h3{font-family: "Capita-Light" Georgia, serif;}
+h1{font-size: 30px;}
+h2{font-size: 20px;}
+h3{font-size: 18px;}
+
 /* Header Overrides */
 #title {margin-top: 1.3em; margin-bottom: .75em;}
 #main-content h2 {font-size: 20px; margin-bottom: 0;}
@@ -434,7 +441,7 @@ img.imagecache-NewsPreview {
 
 #sidebar-right .view-id-news .views-row {
 	float: left;
-	font-size: 92.3%;
+	font-size: 13px;
 	line-height: 1.083em;
 	padding: 10px 0;
 	border-bottom: 1px dotted #ccc;
@@ -561,7 +568,7 @@ body.node-type-ascent-book div.view-ASCENT .views-row:after {
 }
 
 div#sidebar-right div.view-ASCENT div.views-row a {
-	font-size:14px;
+	font-size:13px;
 	font-weight:bold;
 	text-decoration:none;
 }
@@ -712,7 +719,7 @@ div.menu-name-secondary-links ul.menu li {
 	text-transform: uppercase;
 	font-family: Arial, sans-serif;
 	text-decoration: none;
-	font-size: 13px;
+	font-size: 15px;
 	padding: 4px 10px 4px;
 	margin-left: -11px;
 	border-right: 1px solid #ccc;
