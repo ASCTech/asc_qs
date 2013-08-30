@@ -520,6 +520,8 @@ body.node-type-news a.imagecache-NewsImage {
 	border: none;
 }
 
+#contact a:hover {background: transparent;}
+
 #footer_copyright p {
 	font-size: 10px;
 	font-face: Arial, sans-serif;font-family: "proximanova", Arial, sans-serif;
