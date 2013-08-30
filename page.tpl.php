@@ -75,7 +75,7 @@ if(!($front_image || $front_text || $front_links)){
 					<?php print $footer_menu; ?>
 				</div>
 			</div>
-			<div id="contact" class="span-7 append-1">
+			<div id="contact">
 				<?php if(user_access('administer site configuration')){ ?>
 				<ul class="tabs primary">
 					<li class="active">
