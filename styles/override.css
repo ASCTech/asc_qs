@@ -734,7 +734,7 @@ body.page-institutes #leftcontent .view-content .item-list .views-field-title {
 	background: #373535;
 }
 
-#headerbar-menu {
+#headerbar-menu{
 	color: #fff;
 	padding-top: 10px;
 }
@@ -769,12 +769,14 @@ div.menu-name-secondary-links ul.menu li {
 	border-left: 1px solid #ccc;
 }
 
+#headerbar-menu ul li a:hover,
 #headerbar-menu ul li a.active-trail {
 	border-bottom: 7px solid #ccc;
 }
 
 #headerbar-menu ul li a:hover {
 	color: #fff;
+	background: transparent;
 }
 	
 #flag-back {
