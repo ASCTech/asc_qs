@@ -174,11 +174,10 @@ body.front #sidebar-left {
 #sidebar-right td .calendar-calendar .month-view .date-nav a{
 	font-weight: 100;
 	text-transform: uppercase;
-	height: 12px;
 }
 
 .date-nav div.date-next a,
-.date-nav div.date-prev a{margin-top: 6px;}
+.date-nav div.date-prev a{margin-top: 7px; height: 12px;}
 
 
 /* Features */
