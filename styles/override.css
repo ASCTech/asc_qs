@@ -407,6 +407,8 @@ body.page-events #leftcontent .view-id-events td.views-field-title {
 	font-weight: bold;
 }
 
+#sidebar-right .calendar-calendar table.mini table.mini a{color: #b00;}
+
 
 /* Event Node */
 
