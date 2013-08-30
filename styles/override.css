@@ -511,7 +511,7 @@ body.node-type-news a.imagecache-NewsImage {
 /* Footer */
 
 #footer #contact {
-	width: 230px;
+	width: 100%;
 }
 
 #contact p {
@@ -531,6 +531,10 @@ body.node-type-news a.imagecache-NewsImage {
 #footer-top,
 #footer-bottom {
 	width: 670px;
+}
+
+#footer-right{
+	float: right;
 }
 
 #footer #block-block-9 {
