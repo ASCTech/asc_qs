@@ -162,10 +162,11 @@ body.front #sidebar-left {
 /*
 	TODO Move changes back to 'quicksites' theme
 */
+#sidebar-right .block-asc_news_filter h3,
 #sidebar-right .calendar-calendar .month-view .date-nav {
   border: 0 none;
   font-family: "capita", Georgia, serif;
-  font-size: 20px
+  font-size: 18px
   line-height: 1.25em;
   padding: 0;
 }
