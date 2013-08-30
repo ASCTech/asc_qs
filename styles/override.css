@@ -520,6 +520,8 @@ body.node-type-news a.imagecache-NewsImage {
 	border: none;
 }
 
+#contact img#footer_accessibility_icon{margin-bottom: -4px; margin-left: 8px;}
+
 #contact a:hover {background: transparent;}
 
 #footer_copyright p {
