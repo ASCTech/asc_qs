@@ -162,7 +162,7 @@ body.front #sidebar-left {
 /*
 	TODO Move changes back to 'quicksites' theme
 */
-#sidebar .calendar-calendar .month-view .date-nav {
+#sidebar-right .calendar-calendar .month-view .date-nav {
   border: 0 none;
   font-family: "capita", Georgia, serif;
   font-size: 15px;
