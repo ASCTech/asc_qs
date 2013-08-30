@@ -7,6 +7,12 @@
 
 /* HTML Elements */
 
+body div#main-content {
+	font-family: "proximanova", Arial, sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+}
+
 .node-type-news .taxonomy {
   display: none;
 }
@@ -57,12 +63,6 @@ h2 {
 
 h3 {
 	font-size: 18px;
-}
-
-body {
-	font-family: "proximanova", Arial, sans-serif;
-	font-weight: 300;
-	font-size: 15px;
 }
 
 /* Left Sidebar */
