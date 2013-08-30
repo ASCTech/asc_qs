@@ -176,8 +176,8 @@ body.front #sidebar-left {
 	text-transform: uppercase;
 }
 
-.date-nav div.date-next,
-.date-nav div.date-prev{margin-top: 6px;}
+.date-nav div.date-next a,
+.date-nav div.date-prev a{margin-top: 6px;}
 
 
 /* Features */
