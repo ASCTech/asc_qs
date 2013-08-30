@@ -522,6 +522,7 @@ body.node-type-news a.imagecache-NewsImage {
 }
 
 #footer a:hover {background: transparent;}
+#footer a#small-banner-2:hover {background: inherit;}
 
 #footer_copyright p {
 	font-size: 10px;
