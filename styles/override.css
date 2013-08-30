@@ -159,6 +159,17 @@ body.front #sidebar-left {
     color: #333 !important;
 }
 
+/*
+	TODO Move changes back to 'quicksites' theme
+*/
+#sidebar .calendar-calendar .month-view .date-nav {
+  border: 0 none;
+  font-family: "capita", Georgia, serif;
+  font-size: 15px;
+  line-height: 1.25em;
+  padding: 0;
+}
+
 
 /* Features */
 
