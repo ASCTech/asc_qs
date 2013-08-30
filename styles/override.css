@@ -130,7 +130,8 @@ body.front #sidebar-left {
 	color: #fff;
 }
 
-#sidebar-right ul.menu li{background: transparent; border-bottom: 6px dotted #999;}
+#sidebar-right ul.menu li,
+#sidebar-right ul.menu li.last{background: transparent; border-bottom: 2px dotted #999; padding: 6px 0;}
 #sidebar-right ul.menu li li{border: none;}
 
 #sidebar-right .calendar-calendar .month-view .date-nav {
