@@ -166,7 +166,14 @@ body.front #sidebar-left {
 #sidebar-right .calendar-calendar .month-view .date-nav {
   font-family: "capita", Georgia, serif;
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 100;
+  line-height: 1.5;
+  background-color: #373535;
+}
+
+#sidebar-right td .calendar-calendar .month-view .date-nav a{
+	font-weight: 100;
+	text-transform: uppercase;
 }
 
 
