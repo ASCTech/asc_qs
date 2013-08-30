@@ -66,6 +66,15 @@ if(!($front_image || $front_text || $front_links)){
 			<?php if(true || !$is_front){ ?>
 				<a href="http://artsandsciences.osu.edu/" id="small-banner-2" title="Arts and Sciences homepage">&nbsp;</a>
 			<? } ?>
+			
+			<div id="footer-right" class="span-16 last">
+				<div id="footer-top" class="span-16 last">
+					<?php print $footer; ?>
+				</div>
+				<div id="footer-bottom" class="span-16 last">
+					<?php print $footer_menu; ?>
+				</div>
+			</div>
 			<div id="contact" class="span-7 append-1">
 				<?php if(user_access('administer site configuration')){ ?>
 				<ul class="tabs primary">
@@ -76,14 +85,6 @@ if(!($front_image || $front_text || $front_links)){
 				<?php } ?>
 				<?php print $footer_message; ?>
 			</div><!-- .contact -->
-			<div id="footer-right" class="span-16 last">
-				<div id="footer-top" class="span-16 last">
-					<?php print $footer; ?>
-				</div>
-				<div id="footer-bottom" class="span-16 last">
-					<?php print $footer_menu; ?>
-				</div>
-			</div>
 		</div><!-- .container -->
 	</div><!-- #footer -->
 	<div id="footer_copyright" class="clearfix">
