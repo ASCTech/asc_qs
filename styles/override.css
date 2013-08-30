@@ -517,8 +517,7 @@ body.node-type-news a.imagecache-NewsImage {
 #contact p {
 	font-size: 12px;
 	font-family: "proximanova", Arial, sans-serif;
-/*	font-weight: 400;*/
-	
+	border: none;
 }
 
 #footer_copyright p {
