@@ -114,7 +114,7 @@ body.front #sidebar-left {
 /* Right Sidebar */
 
 #sidebar-right-filler {
-	background-color: #CCA11B;
+	background-color: #E1E2D4;
 }
 
 #sidebar-right ul.menu li a.active {
@@ -122,7 +122,7 @@ body.front #sidebar-left {
 }
 
 #sidebar-right {
-	border-top-color: #5B3F16;
+	border-top-color: #5A5A55;
 }
 
 #sidebar-right .view-header a {
