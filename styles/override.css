@@ -521,8 +521,8 @@ body.node-type-news a.imagecache-NewsImage {
 	border: none;
 }
 
-#footer a:hover {background: transparent;}
-#footer a#small-banner-2:hover {background: inherit;}
+#footer #contact a:hover,
+#footer #footer-right a:hover {background: transparent;}
 
 #footer_copyright p {
 	font-size: 10px;
