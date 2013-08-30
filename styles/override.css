@@ -484,12 +484,15 @@ body.node-type-news a.imagecache-NewsImage {
 
 #contact p {
 	font-size: 12px;
-	font-face: Arial, sans-serif;
+	font-family: "proximanova", Arial, sans-serif;
+/*	font-weight: 400;*/
+	
 }
 
 #footer_copyright p {
 	font-size: 10px;
-	font-face: Arial, sans-serif;
+	font-face: Arial, sans-serif;font-family: "proximanova", Arial, sans-serif;
+/*	font-weight: 400;*/
 }
 
 #footer-right,
