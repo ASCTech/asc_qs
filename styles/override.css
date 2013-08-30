@@ -121,6 +121,7 @@ body.front #sidebar-left {
 	background-color: #E1E2D4;
 }
 
+#sidebar-right ul.menu li a:hover,
 #sidebar-right ul.menu li a.active {
 	background-color: #f2f3ec;
 }
@@ -131,7 +132,7 @@ body.front #sidebar-left {
 
 #sidebar-right .view-header a {
 	font-weight: bold;
-	color: #s333;
+	color: #333;
 }
 s
 #sidebar-right ul.menu li{background: transparent; border-bottom: 2px dotted #999; padding: 6px 0;}
