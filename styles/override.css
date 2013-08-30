@@ -118,7 +118,7 @@ body.front #sidebar-left {
 }
 
 #sidebar-right ul.menu li a.active {
-	background-color: #E4CDAD;
+	background-color: #f2f3ec;
 }
 
 #sidebar-right {
@@ -129,6 +129,9 @@ body.front #sidebar-left {
 	font-weight: bold;
 	color: #fff;
 }
+
+#sidebar-right ul.menu li{background: transparent; border-bottom: 6px dotted #999;}
+#sidebar-right ul.menu li li{border: none;}
 
 #sidebar-right .calendar-calendar .month-view .date-nav {
 	background-color: #443B2F;
