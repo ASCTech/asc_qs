@@ -1,3 +1,5 @@
+
+
 /* Header Overrides */
 #title {margin-top: 1.3em; margin-bottom: .75em;}
 #main-content h2 {/*font-size: 20px; */margin-bottom: 0;}
@@ -57,7 +59,7 @@ h3 {
 	font-size: 18px;
 }
 
-p {
+body {
 	font-family: "proximanova", Arial, sans-serif;
 	font-weight: 300;
 	font-size: 15px;
@@ -744,7 +746,7 @@ div.menu-name-secondary-links ul.menu li {
 	left: 50%;
 	position: absolute;
 	z-index: -5;
-	width: 50%;
+	width: 50%; 
 	height: 150px;
 	background-color: #CCA11B;
 }
