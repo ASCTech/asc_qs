@@ -127,9 +127,9 @@ body.front #sidebar-left {
 
 #sidebar-right .view-header a {
 	font-weight: bold;
-	color: #fff;
+	color: #s333;
 }
-
+s
 #sidebar-right ul.menu li{background: transparent; border-bottom: 2px dotted #999; padding: 6px 0;}
 #sidebar-right ul.menu li.last{padding: 6px 0;}
 #sidebar-right ul.menu li li{border: none;}
@@ -139,7 +139,7 @@ body.front #sidebar-left {
 }
 
 #sidebar-right .calendar-calendar .month-view table.mini thead th {
-	background-color: #CFB553;
+	background-color: #666;
 }
 
 #sidebar-right .calendar-calendar .month-view table.mini tbody td {
