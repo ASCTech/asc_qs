@@ -143,12 +143,12 @@ s
 }
 
 #sidebar-right .calendar-calendar .month-view table.mini tbody td {
-	border-color: #F3EDD4;
+	border-color: #ebeae7;
 	text-align: center;
 }
 
 #sidebar-right .calendar-calendar .month-view table.mini td.today {
-	background-color: #F0E9CA;
+	background-color: #f2f3ec;
 }
 
 #sidebar-right .calendar-calendar .month-view table.mini td.has-events:hover {
