@@ -1,5 +1,5 @@
 a{color: #b00;}
-.content a{text-decoration: underline;}
+#leftcontent a{text-decoration: underline;}
 a:hover{color: #000; background-color: #f4f0e6;}
 
 /*#leftcontent .node-type-page .content a:link{color: #b00; border-bottom: 1px solid #b00;}
