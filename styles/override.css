@@ -2,7 +2,8 @@ a{color: #b00;}
 a:hover{color: #000; background-color: #f4f0e6;}
 
 #admin-menu a:hover,
-#breadcrumb a:hover{background-color: inherit;}
+#breadcrumb a:hover,
+#osu_navbar a:hover{background-color: inherit;}
 
 .page-node #leftcontent #node-form a{border-bottom: none;}
 
