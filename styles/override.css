@@ -1,7 +1,10 @@
 a{color: #b00;}
 a:hover{color: #000; background-color: #f4f0e6;}
 
+#admin-menu a:hover{background-color: inherit;}
+
 .page-node #leftcontent .content a{border-bottom: 1px solid #b00;}
+.page-node #leftcontent #node-form a,
 .page-node #leftcontent .content a:hover{text-decoration: none;}
 
 /*#leftcontent .node-type-page .content a:link{color: #b00; border-bottom: 1px solid #b00;}
