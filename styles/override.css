@@ -661,19 +661,6 @@ body.node-type-ascent-article .node.ascent_article .imagecache-NewsImage {
 	margin: 0 5px 5px 0;
 }
 
-body.node-type-book #leftcontent #title,
-div#block-views-ASCENT-block_4 h3 {
-	margin-top:25px;
-/*	color:transparent;*/
-/*	font-size:1px;*/
-/*	display:block;*/
-/*	height:34px;*/
-/*	width:178px;*/
-/*	overflow: hidden;*/
-/*	text-indent: -1000px;*/
-/*	background:url(../images/ascent_title.png) no-repeat;*/
-}
-
 div#block-views-ASCENT-block_4 div.views-field-field-issue-date-value {
 	font-weight:bold;
 }
