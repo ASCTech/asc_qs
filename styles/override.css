@@ -530,6 +530,10 @@ body.node-type-news a.imagecache-NewsImage {
 	border: none;
 }
 
+#contact p:first-child{
+	padding-top: 0;
+}
+
 #footer #contact a:hover,
 #footer #footer-right a:hover {background: transparent;}
 
