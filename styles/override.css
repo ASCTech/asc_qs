@@ -750,6 +750,7 @@ body.page-institutes #leftcontent .view-content .item-list .views-field-title {
 
 #headerbar {
 	background: #373535;
+	height: auto;
 }
 
 #headerbar-menu{
@@ -780,7 +781,7 @@ div.menu-name-secondary-links ul.menu li {
 	font-family: "proximanova", Arial, sans-serif;
 	font-weight: 500;
 	text-decoration: none;
-	padding: 0 10px;
+	padding: 0 10px 7px 0;
 	margin-left: -1px;
 	border-right: 1px solid #ccc;
 }
@@ -792,6 +793,7 @@ div.menu-name-secondary-links ul.menu li {
 #headerbar-menu ul li a:hover,
 #headerbar-menu ul li a.active-trail {
 	border-bottom: 7px solid #ccc;
+	padding-bottom: 0;
 }
 
 #headerbar-menu ul li a:hover {
