@@ -781,7 +781,7 @@ div.menu-name-secondary-links ul.menu li {
 	font-family: "proximanova", Arial, sans-serif;
 	font-weight: 500;
 	text-decoration: none;
-	padding: 0 10px 7px 0;
+	padding: 0 10px 7px 10px;
 	margin-left: -1px;
 	border-right: 1px solid #ccc;
 }
