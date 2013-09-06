@@ -758,13 +758,16 @@ body.page-institutes #leftcontent .view-content .item-list .views-field-title {
 }
 
 #headerbar-menu ul {
-	display: inline;
-	/* padding: 0; */
+	display: block;
+	margin: 0 0 20px;;
+	padding: 0;
 }
 
 #headerbar-menu ul li {
-	display: inline;
+	display: block;
+	float: left;
 	list-style: none;
+	padding: 0;
 }
 
 div.menu-name-secondary-links ul.menu li {
@@ -772,13 +775,14 @@ div.menu-name-secondary-links ul.menu li {
 }
 
 #headerbar-menu ul li a {
+	display: block;
 	color: #ccc;
 	text-transform: uppercase;
 	font-family: "proximanova", Arial, sans-serif;
 	font-weight: 500;
 	text-decoration: none;
-	padding: 4px 10px 4px;
-	margin-left: -11px;
+	padding: 0 10px;
+	margin-left: -1px;
 	border-right: 1px solid #ccc;
 }
 
