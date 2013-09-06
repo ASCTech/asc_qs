@@ -789,6 +789,7 @@ div.menu-name-secondary-links ul.menu li {
 
 #headerbar-menu ul li.first a {
 	border-left: 1px solid #ccc;
+	margin-left: 0;
 }
 
 #headerbar-menu ul li a:hover,
