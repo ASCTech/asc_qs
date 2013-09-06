@@ -5,14 +5,11 @@ a:hover{color: #000; background-color: #f4f0e6;}
 #breadcrumb a:hover,
 #osu_navbar a:hover{background-color: inherit;}
 
-.page-node #leftcontent #node-form a,
-.node-type-ascent-book .page-node #leftcontent .content a{border-bottom: none;}
-
 .page-node #leftcontent .content a{border-bottom: 1px solid #b00;}
 .page-node #leftcontent .content a:hover{text-decoration: none;}
 
-/*#leftcontent .node-type-page .content a:link{color: #b00; border-bottom: 1px solid #b00;}
-#leftcontent .node-type-page .content a:hover{color: #000; background-color: #f4f0e6; text-decoration: none;}*/
+.page-node #leftcontent #node-form a,
+.node-type-ascent-book #leftcontent .content a{border-bottom: none;}
 
 /* Header Overrides */
 #title {margin-top: 1.3em; margin-bottom: .75em;}
