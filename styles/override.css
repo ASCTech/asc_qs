@@ -38,7 +38,7 @@ body .content {
 a#logo {
 	height: 164px;
 	width: 948px;
-	background: url("../asc-wordmark.png") no-repeat scroll 0px 0px transparent;
+	background: url("../images/asc-wordmark.png") no-repeat scroll 0px 0px transparent;
 	position: static;
 }
 
