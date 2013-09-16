@@ -43,7 +43,7 @@ a#logo {
 }
 
 #osulogo {
-	background: url("../images/osulogo.png") no-repeat 0 0 transparent;
+	background: url("../images/osulogo.png") no-repeat 0 24px transparent;
 	height: 164px;
 	width: 175px;
 	right: 0;
