@@ -4,7 +4,7 @@
 $GLOBALS['quickSites_layout'] = 'b';
 
 // These content types will not display a title in inner.tpl.php
-$GLOBALS['no_title_node_types'] = array("qs_events", "qs_people", "event");
+$GLOBALS['no_title_node_types'] = array("qs_events", "qs_people");
 
 function asc_qs_preprocess_page(&$vars, $hook) {
 	if (empty($_SERVER['HTTPS'])) {
