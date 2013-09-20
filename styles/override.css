@@ -446,6 +446,7 @@ body.node-type-event #title + div {
 }
 body.node-type-event #leftcontent > .content {
     border-bottom: 1px solid #CCCCCC;
+	overflow: hidden;
 }
 
 
