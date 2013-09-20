@@ -442,13 +442,16 @@ body.node-type-event .node.event >div.content > div + p {
 
 body.node-type-event #title + div {
     border-top: 1px solid #CCCCCC;
-    padding-top: 15px 0;
+    padding-top: 15px;
 }
 body.node-type-event #leftcontent > .content {
     border-bottom: 1px solid #CCCCCC;
-	overflow: hidden;
 }
 
+body.node-type-event #leftcontent > .content .content {
+	overflow: hidden;
+	padding: 15px 0;
+}
 
 /* News Index */
 
