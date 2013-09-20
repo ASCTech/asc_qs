@@ -8,6 +8,7 @@ a:hover{color: #000; background-color: #f4f0e6;}
 .page-node #leftcontent .content a{border-bottom: 1px solid #b00;}
 .page-node #leftcontent .content a:hover{text-decoration: none;}
 
+a.imagecache,
 .page-node #leftcontent #node-form a,
 #leftcontent .content .alphabet-jumplist a,
 .node-type-ascent-book #leftcontent .content a{border-bottom: none;}
