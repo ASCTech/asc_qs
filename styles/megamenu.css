@@ -2,7 +2,7 @@
 
 
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
-#headerbar-menu .om-maximenu ul.om-menu li.om-leaf > .om-link{height: 22px; line-height: 22px;}
+#headerbar-menu .om-maximenu ul.om-menu li.om-leaf > .om-link{height: 23px; line-height: 22px;}
 
 /* OM Maximenu Content - no style */
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
@@ -12,8 +12,8 @@
 
 
 
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 675px; margin-left: -1px; display: block; float: left;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 225px; margin: 0; font-size: 14px; height: 40px; line-height: 40px;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 675px; margin-left: 9px; display: block; float: left;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 222px; margin: 0; font-size: 14px; height: 40px; line-height: 40px;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px; font-weight: 300;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a:hover{text-decoration: underline;}
 
