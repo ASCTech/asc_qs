@@ -6,6 +6,7 @@ base theme = quickSites_custom
 
 stylesheets[all][] = styles/osu_navbar-resp-white.css
 stylesheets[screen][] = styles/override.css
+stylesheets[screen][] = styles/megamenu.css
 
 regions[headerbar_menu] = Headerbar menu
 regions[front_image] = Front Page - Image
