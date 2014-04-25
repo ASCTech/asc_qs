@@ -11,8 +11,8 @@
 
 
 
-.block-om_maximenu .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
-.block-om_maximenu .om-maximenu-content .block-menu_block a{color: #333; border: none;}
+.block-om_maximenu .om-menu .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
+.block-om_maximenu .om-menu .om-maximenu-content .block-menu_block a{color: #333; border: none;}
 
 .block-om_maximenu .om-maximenu-arrow { }
 
