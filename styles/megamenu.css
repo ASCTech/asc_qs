@@ -2,6 +2,7 @@
 
 
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
+#headerbar-menu .om-maximenu ul.om-menu li.om-leaf > .om-link{height: 22px; line-height: 22px;}
 
 /* OM Maximenu Content - no style */
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
