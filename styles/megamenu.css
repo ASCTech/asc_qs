@@ -5,7 +5,7 @@
 
 /* OM Maximenu Content - no style */
 .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
-.om-maximenu-no-style .om-maximenu-content .block-block{ display: inline-block; width: 230px; padding: 25px; border-right: 1px solid #999;}
+.om-maximenu-no-style .om-maximenu-content .block-block{ display: inline-block; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
 .om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; }
 .om-maximenu-no-style .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
 .om-maximenu-no-style .om-maximenu-arrow { }
@@ -16,7 +16,7 @@
 
 .om-maximenu-no-style .om-maximenu-middle { background: #f2f2ed; }
 .om-maximenu-no-style .om-maximenu-middle-left {}
-.om-maximenu-no-style .om-maximenu-middle-right { padding: 0px; }
+.om-maximenu-no-style .om-maximenu-middle-right { padding: 20px 0px; }
 
 .om-maximenu-no-style .om-maximenu-bottom {}
 .om-maximenu-no-style .om-maximenu-bottom-left {}
