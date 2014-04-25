@@ -4,26 +4,26 @@
 .om-maximenu ul.om-menu li.om-leaf{position: static;}
 
 /* OM Maximenu Content - no style */
-.om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
-.om-maximenu-no-style .om-maximenu-content .block-block{ display: block; float: left; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
-.om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; }
-.om-maximenu-no-style .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
+.block-om_maximenu .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
+.block-om_maximenu .om-maximenu-content .block-block{ display: block; float: left; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
+.block-om_maximenu .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; }
+.block-om_maximenu .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
 
 
 
-.om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
-.om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none;}
+.block-om_maximenu .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
+.block-om_maximenu .om-maximenu-content .block-menu_block a{color: #333; border: none;}
 
-.om-maximenu-no-style .om-maximenu-arrow { }
+.block-om_maximenu .om-maximenu-arrow { }
 
-.om-maximenu-no-style .om-maximenu-top {}
-.om-maximenu-no-style .om-maximenu-top-left {}
-.om-maximenu-no-style .om-maximenu-top-right {}
+.block-om_maximenu .om-maximenu-top {}
+.block-om_maximenu .om-maximenu-top-left {}
+.block-om_maximenu .om-maximenu-top-right {}
 
-.om-maximenu-no-style .om-maximenu-middle { background: #f2f2ed; }
-.om-maximenu-no-style .om-maximenu-middle-left {}
-.om-maximenu-no-style .om-maximenu-middle-right { padding: 20px 0px; }
+.block-om_maximenu .om-maximenu-middle { background: #f2f2ed; }
+.block-om_maximenu .om-maximenu-middle-left {}
+.block-om_maximenu .om-maximenu-middle-right { padding: 20px 0px; }
 
-.om-maximenu-no-style .om-maximenu-bottom {}
-.om-maximenu-no-style .om-maximenu-bottom-left {}
-.om-maximenu-no-style .om-maximenu-bottom-right {}
+.block-om_maximenu .om-maximenu-bottom {}
+.block-om_maximenu .om-maximenu-bottom-left {}
+.block-om_maximenu .om-maximenu-bottom-right {}
