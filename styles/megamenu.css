@@ -5,15 +5,16 @@
 
 /* OM Maximenu Content - no style */
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block{ display: block; float: left; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; }
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block{ display: block; float: left; width: 230px; padding: 0 25px; border-right: 1px solid #999; font-size: 16px;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
 
 
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 223px; margin: 0; font-size: 14px; height: 30px; line-height: 30px;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 223px; margin: 0; font-size: 14px; height: 40px; line-height: 40px;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px; font-weight: 300;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a:hover{text-decoration: underline;}
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-arrow { }
 
