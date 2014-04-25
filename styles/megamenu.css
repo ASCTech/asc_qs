@@ -1,7 +1,7 @@
 #headerbar-menu > .block-menu_block{display: none;}
 
 
-#headerbar-menu.om-maximenu ul.om-menu li.om-leaf{position: static;}
+#headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
 
 /* OM Maximenu Content - no style */
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
@@ -12,7 +12,8 @@
 
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 223px; margin: 0;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px;}
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-arrow { }
 
