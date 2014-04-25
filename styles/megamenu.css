@@ -1,4 +1,4 @@
-.block-menu_block{display: none;}
+#headerbar-menu > .block-menu_block{display: none;}
 
 
 .block-om_maximenu{}
