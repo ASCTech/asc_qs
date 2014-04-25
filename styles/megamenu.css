@@ -3,3 +3,6 @@
 
 .block-om_maximenu{}
 .block-om_maximenu .om-maximenu-content{}
+
+.om-maximenu .om-maximenu-content{width: 950px;}
+.om_maximenu .om-maximenu-no-style .om-maximenu-content{left:-65px;}
