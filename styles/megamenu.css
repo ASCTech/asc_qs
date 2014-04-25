@@ -12,7 +12,7 @@
 
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 223px; margin: 0;}
+#headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 223px; margin: 0; font-size: 14px; height: 30px; line-height: 30px;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px;}
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-arrow { }
