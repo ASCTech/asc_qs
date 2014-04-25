@@ -5,9 +5,15 @@
 
 /* OM Maximenu Content - no style */
 .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
-.om-maximenu-no-style .om-maximenu-content .block-block{ display: inline-block; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
+.om-maximenu-no-style .om-maximenu-content .block-block{ display: block; float: left; width: 230px; padding: 0 25px; border-right: 1px solid #999;}
 .om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; }
 .om-maximenu-no-style .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
+
+
+
+.om-maximenu-no-style .om-maximenu-content .block-block .block-menu_block {width: 670px; margin-left: -1px; display: block; float: left;}
+.om-maximenu-no-style .om-maximenu-content .block-block .block-menu_block a{color: #333; border: none;}
+
 .om-maximenu-no-style .om-maximenu-arrow { }
 
 .om-maximenu-no-style .om-maximenu-top {}
