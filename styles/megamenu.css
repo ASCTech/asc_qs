@@ -4,7 +4,7 @@
 .om-maximenu ul.om-menu li.om-leaf{position: static;}
 
 /* OM Maximenu Content - no style */
-.om-maximenu-no-style .om-maximenu-content {top: 30px; padding: 0; width: 950px; }
+.om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
 .om-maximenu-no-style .om-maximenu-arrow { }
 
 .om-maximenu-no-style .om-maximenu-top {}
