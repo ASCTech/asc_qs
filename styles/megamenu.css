@@ -1,6 +1,5 @@
 #headerbar-menu > .block-menu_block{display: none;}
 
-
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf .om-link{text-transform: uppercase; color: #ccc;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf:hover a{border-bottom: 8px solid #f2f2ed;}
@@ -15,23 +14,10 @@
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block p{ color: #b00; font-family: "capita", Georgia, serif; font-size: 16px; font-weight: 300;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-block p:last-child{ margin-bottom: 0; }
 
-
-
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block {width: 657px; margin-left: 8px; margin-right: 9px; display: block; float: left;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block li{width: 219px; margin: 0; font-size: 14px; height: 40px; line-height: 40px;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a{color: #333; border: none; padding: 0 15px; font-weight: 300;}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content .block-menu_block a:hover{text-decoration: underline;}
 
-#headerbar-menu .om-maximenu-no-style .om-maximenu-arrow { }
-
-#headerbar-menu .om-maximenu-no-style .om-maximenu-top {}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-top-left {}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-top-right {}
-
 #headerbar-menu .om-maximenu-no-style .om-maximenu-middle { background: #f2f2ed; }
-#headerbar-menu .om-maximenu-no-style .om-maximenu-middle-left {}
 #headerbar-menu .om-maximenu-no-style .om-maximenu-middle-right { padding: 20px 0px; }
-
-#headerbar-menu .om-maximenu-no-style .om-maximenu-bottom {}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-bottom-left {}
-#headerbar-menu .om-maximenu-no-style .om-maximenu-bottom-right {}
