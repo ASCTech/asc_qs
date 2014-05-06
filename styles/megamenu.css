@@ -25,10 +25,10 @@
 #headerbar-menu .om-maximenu-no-style .om-maximenu-middle-right { padding: 20px 0px; }
 
 /* OM Maximenu Edit Links */
-#headerbar-menu .om-maximenu-content .edit-block { display: block; position: absolute; top: 0; right: 0; font-size: .7em; background-color: #fff; }
+#headerbar-menu .om-maximenu-content .edit-block { display: block; position: absolute; top: 0; right: 0; font-size: .7em; background-color: transparent; }
 #headerbar-menu .om-maximenu-content .block {position: relative;}
 #headerbar-menu .om-maximenu-content .block:hover .edit-block { display: block; z-index: 1000; }
-#headerbar-menu .om-maximenu-content .block .edit-block a { display: block; float: left; margin: 3px; height: 0; width: 16px; padding: 16px 0 0; overflow: hidden; border: none;}
+#headerbar-menu .om-maximenu-content .block .edit-block a {background: url("images/icons.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0); display: block; float: left; margin: 3px; height: 0; width: 16px; padding: 16px 0 0; overflow: hidden; border: none;}
 #headerbar-menu .om-maximenu-content .block .edit-block a:hover{background: inherit;}
 #headerbar-menu .om-maximenu-content .block .edit-block a.block-config { background-position: 0 0; }
 #headerbar-menu .om-maximenu-content .block .edit-block a.block-config:hover { background-position: 0 -16px; }
