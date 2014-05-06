@@ -1,5 +1,7 @@
 #headerbar-menu > .block-menu_block{display: none;}
 
+#headerbar-menu .om-maximenu-edit{display: none;}
+
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf .om-link{text-transform: uppercase; color: #ccc;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf:hover a{border-bottom: 8px solid #f2f2ed;}
@@ -21,3 +23,16 @@
 
 #headerbar-menu .om-maximenu-no-style .om-maximenu-middle { background: #f2f2ed; }
 #headerbar-menu .om-maximenu-no-style .om-maximenu-middle-right { padding: 20px 0px; }
+
+/* OM Maximenu Edit Links */
+#headerbar-menu .om-maximenu-content .edit-block { display: block; position: absolute; top: 0; right: 0; font-size: .7em; background-color: #fff; }
+#headerbar-menu .om-maximenu-content .block {position: relative;}
+#headerbar-menu .om-maximenu-content .block:hover .edit-block { display: block; z-index: 1000; }
+#headerbar-menu .om-maximenu-content .block .edit-block a { display: block; float: left; margin: 3px; height: 0; width: 16px; padding: 16px 0 0; overflow: hidden; border: none;}
+#headerbar-menu .om-maximenu-content .block .edit-block a:hover{background: inherit;}
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-config { background-position: 0 0; }
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-config:hover { background-position: 0 -16px; }
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-edit-menu { background-position: -16px 0; }
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-edit-menu:hover { background-position: -16px -16px; }
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-edit-view { background-position: -32px 0; }
+#headerbar-menu .om-maximenu-content .block .edit-block a.block-edit-view:hover { background-position: -32px -16px; }
