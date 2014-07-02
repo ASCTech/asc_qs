@@ -9,7 +9,7 @@
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf:hover .om-maximenu-content a{border-bottom: 0;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf > .om-link{height: 23px; line-height: 22px;}
 
-#headerbar-menu .om-maximenu .om-menu .om-maximenu-open{bottom: 0; color: #333; line-height: 10px;}
+#headerbar-menu .om-maximenu .om-menu .om-maximenu-open{bottom: 0; color: #333; line-height: 10px; display: none;}
 
 /* OM Maximenu Content - no style */
 #headerbar-menu .om-maximenu-no-style .om-maximenu-content { left: 0px; top: 30px; padding: 0; width: 950px; }
