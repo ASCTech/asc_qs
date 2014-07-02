@@ -4,6 +4,7 @@
 
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf{position: static;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf .om-link{text-transform: uppercase; color: #ccc;}
+#headerbar-menu .om-maximenu ul.om-menu li.om-leaf a.active
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf:hover a{border-bottom: 8px solid #f2f2ed;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf:hover .om-maximenu-content a{border-bottom: 0;}
 #headerbar-menu .om-maximenu ul.om-menu li.om-leaf > .om-link{height: 23px; line-height: 22px;}
