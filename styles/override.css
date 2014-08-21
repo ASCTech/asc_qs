@@ -848,3 +848,8 @@ a.imagecache-EventImage img {
 div.view-display-id-block_2 div.views-field-title {
 	height: 30px;
 }
+
+a[href$='.pdf'] { padding-left: 15px; background: transparent url(../images/page_white_acrobat.png) center left no-repeat; }
+a[href$='.doc'] { padding-left: 15px; background: transparent url(../images/page_white_word.png) center left no-repeat; }
+a[href$='.xls'] { padding-left: 15px; background: transparent url(../images/page_white_excel.png) center left no-repeat; }
+a[href$='.ppt'] { padding-left: 15px; background: transparent url(../images/page_white_powerpoint.png) center left no-repeat; }
