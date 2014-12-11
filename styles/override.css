@@ -853,3 +853,13 @@ a[href$='.pdf'] { padding-left: 15px; background: transparent url(../images/page
 a[href$='.doc'], a[href$='.docx'] { padding-left: 15px; background: transparent url(../images/page_white_word.png) center left no-repeat; }
 a[href$='.xls'], a[href$='.xlsx'] { padding-left: 15px; background: transparent url(../images/page_white_excel.png) center left no-repeat; }
 a[href$='.ppt'], a[href$='.pptx'] { padding-left: 15px; background: transparent url(../images/page_white_powerpoint.png) center left no-repeat; }
+
+
+#footer #small-banner-2{
+  width: 90px;
+  height: 60px;
+  border-width: 1px 0 0 1px;
+  border-color: #666;
+  border-style: solid;
+  bottom: -5px;
+}
